@@ -97,7 +97,7 @@ export const en = {
       {
         "name": "Starter",
         "desc": "For small teams getting started",
-        "price": "{{price_starter}}",
+        "price": "Free",
         "period": "per month",
         "features": [
           "Up to 3 seats",
@@ -109,7 +109,7 @@ export const en = {
       {
         "name": "Growth",
         "desc": "For teams with a busy inbox",
-        "price": "{{price_growth}}",
+        "price": "$19",
         "period": "per month",
         "features": [
           "Unlimited seats",
@@ -121,7 +121,7 @@ export const en = {
       {
         "name": "Scale",
         "desc": "For teams with several channels",
-        "price": "{{price_scale}}",
+        "price": "$49",
         "period": "per month",
         "features": [
           "Every channel in one inbox",
@@ -335,7 +335,7 @@ export const ar = {
       {
         "name": "البداية",
         "desc": "للفرق الصغيرة التي تبدأ الآن",
-        "price": "{{price_starter}}",
+        "price": "مجاني",
         "period": "شهريا",
         "features": [
           "حتى 3 مقاعد",
@@ -347,7 +347,7 @@ export const ar = {
       {
         "name": "النمو",
         "desc": "للفرق ذات الصندوق المزدحم",
-        "price": "{{price_growth}}",
+        "price": "$19",
         "period": "شهريا",
         "features": [
           "مقاعد غير محدودة",
@@ -359,7 +359,7 @@ export const ar = {
       {
         "name": "التوسع",
         "desc": "للفرق ذات القنوات المتعددة",
-        "price": "{{price_scale}}",
+        "price": "$49",
         "period": "شهريا",
         "features": [
           "كل القنوات في صندوق واحد",
